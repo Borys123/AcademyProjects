@@ -9,6 +9,6 @@ entries:
     name: app
     type: application
     urls:
-    - s3://bucket-us-east-1-prod-repo/stable/app/app-0.1.0.tgz
+    - https://github.com/Borys123/AcademyProjects/edit/master/FinalAssesment//app-0.1.0.tgz
     version: 0.1.0
 generated: "2022-08-23T15:29:10.039390149Z"
